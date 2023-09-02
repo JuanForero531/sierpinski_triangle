@@ -9,7 +9,7 @@ Asegúrate de tener configurado un entorno de desarrollo Java para ejecutar el p
 2. Ingresa el número de iteraciones para generar el Triángulo de Sierpinski.
 3. Observa el resultado en la ventana gráfica.
 
-##Contacto
+## Contacto
 Nombre: Juan José Forero
 Correo electrónico: juan.forero09@uptc.edu.co
 
